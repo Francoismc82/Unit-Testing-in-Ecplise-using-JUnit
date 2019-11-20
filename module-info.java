@@ -1,0 +1,4 @@
+module JUnitTask {
+	requires junit;
+	
+}
